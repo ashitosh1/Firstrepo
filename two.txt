@@ -1,2 +1,2 @@
 Hi second
-changed from third branch
+changed from cmd
